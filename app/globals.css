@@ -1,0 +1,7 @@
+@import '@coreui/coreui/dist/css/coreui.min.css';
+
+body {
+  background-color: #ECEDEF;
+  margin: 0;
+  padding: 0;
+}
